@@ -27,6 +27,9 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
+<br />
+- - -  
+<br />
 
 Phrase Emphasis
 ====================
@@ -41,6 +44,9 @@ Some of these words _are emphasized also_.
 Use two asterisks for **strong emphasis**.
 Or, if you prefer, __use two underscores instead__.
 
+<br />
+- - -  
+<br />
 
 Lists
 ====================
@@ -77,6 +83,9 @@ If you put blank lines between items, you’ll get <p> tags for the list item te
 
 *   Another item in the list.
 
+<br />
+- - -  
+<br />
 
 Links
 ======
@@ -107,6 +116,9 @@ I start my morning with a cup of coffee and
 
 [ny times]: http://www.nytimes.com/
 
+<br />
+- - -  
+<br />
 
 Code
 ====

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Create a Repo From Scratch"
+title:  "Git 1 - Create a Repo From Scratch"
 categories: git reference
 author: "Manuel"
 ---

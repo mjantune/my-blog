@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hyperparameter Tuning"
+title:  "Coursera - Hyperparameter Tuning"
 categories: coursera data_science
 author: "Manuel"
 ---

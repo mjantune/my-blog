@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Add commits to a Repo"
+title:  "Git 5 - Add commits to a Repo"
 categories: git reference
 author: "Manuel"
 ---

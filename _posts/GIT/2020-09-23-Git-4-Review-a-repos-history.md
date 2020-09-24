@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Review a Repo's History"
+title:  "Git 4 - Review a Repo's History"
 categories: git reference
 author: "Manuel"
 ---

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 2 - Clone an Existing Repo"
 categories: git reference
 author: "Manuel"

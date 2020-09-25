@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 9 - Resetting Commits"
 categories: git reference
 author: "Manuel"

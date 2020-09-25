@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 6 - Tagging, Branching & Merging"
 categories: git reference
 author: "Manuel"

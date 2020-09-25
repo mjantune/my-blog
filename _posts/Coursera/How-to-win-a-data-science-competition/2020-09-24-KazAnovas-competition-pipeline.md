@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Coursera - Tips and Tricks - KazAnova's competition pipeline"
 categories: coursera data_science
 author: "Manuel"

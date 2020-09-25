@@ -1,8 +1,9 @@
 ---
-layout: post
 title:  "Coursera - Hyperparameter Tuning"
 categories: coursera data_science
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # How do we tune parameters

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 7 - Merging"
 categories: git reference
 author: "Manuel"

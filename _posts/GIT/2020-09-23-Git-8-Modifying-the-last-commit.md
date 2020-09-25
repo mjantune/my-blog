@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 8 - Modifying the Last Commit and Reverting"
 categories: git reference
 author: "Manuel"

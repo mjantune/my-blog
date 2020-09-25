@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Coursera - Advanced Features II - Statistics and Distance Based Features"
 categories: coursera data_science
 author: "Manuel"

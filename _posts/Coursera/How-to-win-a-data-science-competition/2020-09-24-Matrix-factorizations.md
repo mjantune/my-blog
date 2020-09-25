@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Coursera - Advanced Features II - Matrix Factorizations"
 categories: coursera data_science
 author: "Manuel"

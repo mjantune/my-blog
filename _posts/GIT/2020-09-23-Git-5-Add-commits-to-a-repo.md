@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 5 - Add commits to a Repo"
 categories: git reference
 author: "Manuel"

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Git 3 - Determine a Repo's Status"
 categories: git reference
 author: "Manuel"

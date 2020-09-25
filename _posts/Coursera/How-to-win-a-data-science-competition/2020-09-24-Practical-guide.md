@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Coursera - Tips and Tricks - Practical Guide"
 categories: coursera data_science
 author: "Manuel"

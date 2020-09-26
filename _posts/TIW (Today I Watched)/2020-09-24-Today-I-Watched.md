@@ -13,9 +13,10 @@ toc_sticky: true
 > How did we get from the 2008 Crisis to Brexit and Trump?  Is it useful to think about layers to social systems and how particular decisions can support one layer at the expense of other (potentially more important) layers?
 
 Four Layers:
+
 1. Cultural Layer: Foundational layer
 2. Socio-Political Layer
 3. Economic Layer
-4. Financial Layer 
+4. Financial Layer
 
 During the 2008 financial crisis, the Financial layer was bailed out, at the cost of the others layers, weakening them. The problem is, that the destruction of the cultural layer can lead to revolutions and social instability.

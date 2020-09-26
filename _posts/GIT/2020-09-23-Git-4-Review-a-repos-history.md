@@ -6,11 +6,11 @@ toc: true
 toc_sticky: true
 ---
 
-#The Git Log Command
+# The Git Log Command
 
 Finding the answers to these questions is exactly what git log can do for us! Instead of explaining everything that it can do for us, let's experience it! Go ahead and run the git log command in the terminal:
 
-    $ git log
+    git log
 
 The terminal should display the following screen.
 
@@ -21,13 +21,13 @@ Navigating The Log
 If you're not used to a pager on the command line, navigating in Less can be a bit odd. Here are some helpful keys:  
 
 - to scroll down, press
-    - `j` or ↓ to move down one line at a time
-    - `d` to move by half the page screen
-    - `f` to move by a whole page screen
+  - `j` or ↓ to move down one line at a time
+  - `d` to move by half the page screen
+  - `f` to move by a whole page screen
 - to scroll up, press
-    - `k` or ↑ to move _up_ one line at a time
-    - `u` to move by half the page screen
-    - `b` to move by a whole page screen
+  - `k` or ↑ to move _up_ one line at a time
+  - `u` to move by half the page screen
+  - `b` to move by a whole page screen
 press `q` to quit out of the log (returns to the regular command prompt)
   
 Git records a ton of information when a commit is made. See if you can use git log to answer the following questions!
@@ -49,7 +49,7 @@ What could we do here to not waste a lot of space and make the output smaller? W
 
 The git log command has a flag that can be used to alter how it displays the repository's information. That flag is --oneline:
 
-    $ git log --oneline
+    git log --oneline
 
 This command:
 
@@ -64,7 +64,7 @@ We just looked at the --oneline flag to show one commit per line. That's great f
 
 The `git log` command has a flag that can be used to display the files that have been changed in the commit, as well as the number of lines that have been added or deleted. The flag is `--stat` ("stat" is short for "statistics"):
 
-    $ git log --stat
+    git log --stat
 
 [The Git Log Stat]({{ site.baseurl }}/assets/ud123-l3-git-log-vs-git-log-stat.png)
 Two Terminal applications side-by-side. The left one shows the result of the git log command with all of the information while the right one shows the result of the git log --stat command which lists the files that were changed as well as the number of added/removed lines.
@@ -81,17 +81,17 @@ git log -p
 
 The git log command has a flag that can be used to display the actual changes made to a file. The flag is --patch which can be shortened to just -p:
 
-    $ git log -p
+    git log -p
 
 # New Command: git show
 
 The other command that shows a specific commit is git show:
 
-    $ git show
+    git show
 
 Running it like the example above will only display the most recent commit. Typically, a SHA is provided as a final argument:
 
-    $ git show fdf5493
+    git show fdf5493
 
 What does git show do?
 
@@ -105,7 +105,6 @@ The git show command will show only one commit. So don't get alarmed when you ca
 
 However, git show can be combined with most of the other flags we've looked at:
 
-* `--stat` - to show the how many files were changed and the number of lines that were added/removed
-* `-p` or `--patch` - this the default, but if --stat is used, the patch won't display, so pass -p to add it again
-* `-w` - to ignore changes to whitespace
-
+- `--stat` - to show the how many files were changed and the number of lines that were added/removed
+- `-p` or `--patch` - this the default, but if --stat is used, the patch won't display, so pass -p to add it again
+- `-w` - to ignore changes to whitespace

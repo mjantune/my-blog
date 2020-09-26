@@ -2,6 +2,8 @@
 title:  "Git 1 - Create a Repo From Scratch"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 Before you can make commits or do anything else with a git repository, the repository needs to actually exist. To create a new repository with Git, we'll use the `git init` command.

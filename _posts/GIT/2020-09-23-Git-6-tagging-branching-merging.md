@@ -2,6 +2,8 @@
 title:  "Git 6 - Tagging, Branching & Merging"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # Tagging

@@ -2,6 +2,8 @@
 title:  "Git 4 - Review a Repo's History"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 #The Git Log Command

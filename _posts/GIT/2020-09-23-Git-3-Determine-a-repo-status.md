@@ -2,6 +2,8 @@
 title:  "Git 3 - Determine a Repo's Status"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 Working with Git on the command line can be a little bit challenging because it's a little bit like a black box. I mean, how do you know when you should or shouldn't run certain Git commands? Is Git ready for me to run a command yet? What if I run a command but I think it didn't work...how can I find that out? The answer to all of these questions is the git status command!

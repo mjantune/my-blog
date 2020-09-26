@@ -2,6 +2,8 @@
 title:  "Coursera - Tips and Tricks - KazAnova's competition pipeline"
 categories: coursera data_science
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # The Pipeline

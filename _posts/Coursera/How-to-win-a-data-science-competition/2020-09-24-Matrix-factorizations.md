@@ -2,6 +2,8 @@
 title:  "Coursera - Advanced Features II - Matrix Factorizations"
 categories: coursera data_science
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # Recommendations

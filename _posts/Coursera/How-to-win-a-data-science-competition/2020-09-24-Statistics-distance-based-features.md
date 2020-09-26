@@ -2,6 +2,8 @@
 title:  "Coursera - Advanced Features II - Statistics and Distance Based Features"
 categories: coursera data_science
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # Some data for CTR Task

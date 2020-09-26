@@ -2,6 +2,8 @@
 title:  "Today I Watched"
 categories: TIW GameB
 author: Manuel
+toc: true
+toc_sticky: true
 ---
 
 # Four Layer Model of Social Systems

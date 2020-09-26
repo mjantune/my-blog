@@ -2,6 +2,8 @@
 title:  "Coursera - Tips and Tricks - Practical Guide"
 categories: coursera data_science
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # Check the objective of entering a competition

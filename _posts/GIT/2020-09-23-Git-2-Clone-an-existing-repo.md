@@ -2,6 +2,8 @@
 title:  "Git 2 - Clone an Existing Repo"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 The command is git clone and then you pass the path to the Git repository that you want to clone. The project that we'll be using throughout this course is located at this URL: https://github.com/udacity/course-git-blog-project So using this URL, the full command to clone blog project is:

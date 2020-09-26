@@ -2,6 +2,8 @@
 title:  "Git 7 - Merging"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 Remember that the purpose of a topic branch (like sidebar) is that it lets you make changes that do not affect the master branch. Once you make changes on the topic branch, you can either decide that you don't like the changes on the branch and you can just delete that branch, or you can decide that you want to keep the changes on the topic branch and combine those changes in with those on another branch.

@@ -2,6 +2,8 @@
 title:  "Git 8 - Modifying the Last Commit and Reverting"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 ### Changing The Last Commit

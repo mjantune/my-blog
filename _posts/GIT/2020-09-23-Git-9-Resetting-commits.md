@@ -2,6 +2,8 @@
 title:  "Git 9 - Resetting Commits"
 categories: git reference
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 # Reset vs Revert

@@ -2,6 +2,8 @@
 title:  "Coursera - Advanced Features II - Feature Interactions"
 categories: coursera data_science
 author: "Manuel"
+toc: true
+toc_sticky: true
 ---
 
 Suppose that we are building a model to predict the best advertisement banner to display on a website. Among available features, there are two categorical ones that we will concentrate on. The category of the advertising banner itself and the category of the site the banner will be showing on.

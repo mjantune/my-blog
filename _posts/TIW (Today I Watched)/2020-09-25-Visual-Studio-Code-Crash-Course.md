@@ -41,6 +41,8 @@ Examples:
 - Auto Rename Tag
 - Bracket Colorizer
 - Markdown PDF
+- Git Lens
+- Live Share
 
 You can change Keyboard Shortcuts, just search for "Keyboard SHortcuts in the Command Palette"
 
@@ -49,7 +51,7 @@ Ctrl+N          -> Advanced New File
 
 ## Version Control
 
-Very good way of seeing changes in files (diff command).
-It's possible to create a new repository in Github directly from VS Code, without having to create it first in Github.com.
-There is a very good extension called Git Lens
+Very good way of seeing changes in files (diff command).  
+It's possible to create a new repository in Github directly from VS Code, without having to create it first in Github.com.  
+There is a very good extension called Git Lens.  
 Live Share Extension: You can share code live with someone else, to do a collaboration sesion.

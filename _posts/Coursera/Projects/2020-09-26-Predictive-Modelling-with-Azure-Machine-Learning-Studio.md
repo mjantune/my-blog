@@ -14,14 +14,6 @@ In this course, we are going to focus on three learning objectives:
 
 By the end of this course, you will be able to train and evaluate a predictive model on Azure Machine Learning Studio, all without writing a single line of code! You will predict flight delays using weather data provided by the US Bureau of Transportation Statistics and the National Oceanic and Atmospheric Association (NOAA).
 
-#Course Structure
-
-This course is divided into 3 parts:
-
-- Course Overview: This introductory reading material.
-- Feature Engineering and Custom Models Project: This is the hands on project that we will work on in Rhyme.
-- Graded Quiz: This is the final assignment that you need to pass in order to successfully complete the course and earn a Course Certificate.
-
 # Project Structure
 
 The hands on project on Predicting Flight Delays Using Weather Data on Azure Machine Learning Studio is divided into the following tasks:

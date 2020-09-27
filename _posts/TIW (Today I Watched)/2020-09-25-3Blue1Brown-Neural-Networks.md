@@ -1,6 +1,6 @@
 ---
 title:  "3Blue1Brown Youtube Series on Neural Networks."
-categories: TIW DataScience
+categories: TIW data_science
 author: Manuel
 toc: true
 toc_sticky: true
@@ -8,7 +8,7 @@ toc_sticky: true
 
 The great animated series from 3Blue1Brown on how neural networks actually work.
 
-# But what is a Neural Network? | Deep learning, chapter 1
+## But what is a Neural Network? | Deep learning, chapter 1
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aircAruvnKk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  <br>
@@ -26,8 +26,7 @@ Timeline:
 - 16:27 - Some final words  
 - 17:03 - ReLU vs Sigmoid  
 
-
-# Gradient descent, how neural networks learn | Deep learning, chapter 2
+## Gradient descent, how neural networks learn | Deep learning, chapter 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHZwWFHWa-w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
@@ -43,7 +42,6 @@ Video timeline
 - 16:37 - Learning more  
 - 17:38 - Lisha Li interview  
 - 19:58 - Closing thoughts  
-
 
 ## What is backpropagation really doing? | Deep learning, chapter 3
 

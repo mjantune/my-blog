@@ -24,15 +24,15 @@ From the [Israel Ministry of Foreign Affairs][1]:
 
 ### The Kibbutz, a TBN Israel documentary
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GMgF-RfQdXE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="GMgF-RfQdXE" provider="youtube" %}
 
 ### The Kibutz: Israel's colective Utopia
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RIf2f77tjJ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="RIf2f77tjJ8" provider="youtube" %}
 
 ### The Kibbutz
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iJ3MUS30oxo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="iJ3MUS30oxo" provider="youtube" %}
 
 ## [Jim Rutt Show][3]
 

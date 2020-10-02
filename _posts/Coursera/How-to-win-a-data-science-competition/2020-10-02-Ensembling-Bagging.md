@@ -6,11 +6,11 @@ toc: true
 toc_sticky: true
 ---
 
-Here we review Bagging and Boosting methods 
+Here we review Bagging and Boosting methods
 
 # Bagging
 
-## What is Bagging?
+What is Bagging?
 
 Means **averaging** slightly different version of the same model to improve accuracy.
 

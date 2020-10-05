@@ -54,3 +54,53 @@ In time-series task we usually have a fixed period of time we are asked to predi
 ### G. KFold scheme in time series with limited amount of data
 
 1. We may often encounter a situation, where scheme f) is not applicable, especially with limited amount of data. For example, when we have only years 2014, 2015, 2016 in train and we need to predict for a whole year 2017 in test. In such cases scheme c) could be of help, but with one constraint: KFold split should be done with the respect to the time component. For example, in case of data with several years we would treat each year as a fold.
+
+
+# Ensembling Quiz
+
+1. Question 1: Suppose we are given a train set and test set, that came from the same distribution. We want to use stacking and choose between the validation schemes described in the reading material.
+Select the true statements about the validation schemes. OK
+
+- X Scheme e) gives the validation score with the least variance, if compared to schemes a) -- d).
+- Scheme d) is more efficient from computational perspective than scheme a). That is, if a dataset is very large, scheme d) is usually preferred over scheme a).
+- X Scheme d) is less efficient from computational perspective than scheme a). That is, if a dataset is very large, scheme a) is usually preferred over scheme d). 
+
+2. Question 2:  Definition: we will call a validation scheme fair if the set, that we use to validate meta-models comes from the same distribution as the meta-test set. In other cases we will call validation scheme leaky. In other words in a fair validation scheme the set that we use to validate meta-models was not used in any way during training first level models.
+Select fair validation schemes. The definition for the schemes can be found in the reading material. (1.2/2)
+
+- b) Meta holdout scheme with OOF meta-features
+- c) Meta KFold scheme with OOF meta-features
+- X a) Simple holdout scheme
+- X e) KFold scheme with OOF meta-features
+- X d) Holdout scheme with OOF meta-features
+
+3. Question 3:  Which of the following ensembling methods can potentially learn "conditional averaging" (video 1)? (1/1 point)
+
+- X Boosting on trees
+- Bagging
+- X Stacking
+- Weighted average
+
+4. Question 4: The benefits of the weighted average compared to more advanced ensembling techniques is that: OK
+
+- It usually gives better quality
+- X It is less prone to overfitting
+- X It is faster to implement and to run
+
+5. Question 5 (0/1 point)
+
+In general case, which set of base models is probably the best for stacking? (0/1)
+
+- Wrong [Logistic Regression, SVM, Random Forest, Extra Trees Classifier, GBDT]
+- [kNN, SVM, Logistic Regression, Neural Net]
+- X [SVM, GBDT, Neural Network, kNN]
+- Wrong [Random Forest, Extra Trees Classifier, GBDT, RGF]
+
+6. Question 6: Suppose we are given a classification task. In a simple two model linear mix we usually use weights α\alphaα for the first model and β\betaβ for the second one. The coefficients are usually chosen such that α+β=1\alpha + \beta = 1α+β=1, because convex combination of probability vectors is a probability vector.
+Still, sometimes it is beneficial to tune α\alphaα and betabetabeta independently, e.g. mix with α=0.1\alpha=0.1α=0.1 and β=0.8\beta=0.8β=0.8 works best.
+However, for some metrics it never makes sense to tune α\alphaα and β\betaβ independently. That is, searching for independent α\alphaα and β\betaβ will never give you better results than searching for weights, constrained to be β=1−α\beta = 1 - \alphaβ=1−α. Select such metrics. (1/2 points)
+
+- LogLoss
+- X Accuracy (implemented with argmax) X before
+- Hinge loss
+- X AUC
